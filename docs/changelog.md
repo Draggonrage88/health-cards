@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.3.0
+
+Deprecate disease-specific top-level types like `#covid19`, in favor of classifying cards based on their contents.
+
+
 ## 1.2.2
 
 Update examples to include 3-dose COVID vaccination histories
